@@ -6,7 +6,6 @@ storage_deployments = {
     disable_public_access   = false
     enable_private_endpoint = false
     subnet_id               = null
-   
   },
   "deployment-02" = {
     rg_name                 = "rg-logs-eastus2-02"
